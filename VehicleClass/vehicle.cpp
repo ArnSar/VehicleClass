@@ -40,6 +40,7 @@ bool::Vehicle::isSpeeding()
 	}
 }
 
+
 void displaySign(Vehicle v)
 {
 	if (v.isSpeeding())
